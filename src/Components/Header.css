@@ -1,0 +1,22 @@
+.header{
+    font-size: 40px;
+    width:100%;
+    position: fixed;
+    justify-content: center;
+    z-index: 1000;
+    text-transform: uppercase;
+    background-color: #272626;
+   
+}
+.title{
+    margin: 20px;
+    position: relative;
+    bottom: 4px;
+    transition-property: all;
+    transition-duration: 1s;
+}
+
+.title:hover{
+    cursor: pointer;
+    transform: rotate(360deg);
+}

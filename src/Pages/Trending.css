@@ -1,0 +1,7 @@
+.trend{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: space-around;
+    margin-bottom: 120px;
+}

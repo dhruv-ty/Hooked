@@ -1,0 +1,31 @@
+.detail{
+   display: flex;
+   justify-content: center;
+   border-radius: 10px;
+   max-height: 300px;
+   max-width: 200px;
+}
+
+#stars{
+    margin-left: 5px;
+    margin-top: 3px;
+    /*color: rgb(206, 206, 94);*/
+    color: gold;
+}
+.comp:hover{
+    cursor: pointer;
+    transform: scale(1.1); 
+    background-color: rgb(68, 60, 60);
+}
+.comp{
+    border-radius: 10px;
+    background-color: #241919;
+    box-shadow: 4px 4px 4px #241919;
+    justify-content: center;
+    padding: 4px;
+    transition: transform .4s; 
+}
+.name{
+    width: 100%;
+}
+
