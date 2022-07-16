@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Hooked/static/css/main.87b8ffc0.css",
+    "main.js": "/Hooked/static/js/main.fb8000f2.js",
+    "static/js/787.732dab7b.chunk.js": "/Hooked/static/js/787.732dab7b.chunk.js",
+    "static/media/pngwing.com.png": "/Hooked/static/media/pngwing.com.8865c36bc66a0d0ad2c7.png",
+    "static/media/logo.svg": "/Hooked/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Hooked/index.html",
+    "main.87b8ffc0.css.map": "/Hooked/static/css/main.87b8ffc0.css.map",
+    "main.fb8000f2.js.map": "/Hooked/static/js/main.fb8000f2.js.map",
+    "787.732dab7b.chunk.js.map": "/Hooked/static/js/787.732dab7b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87b8ffc0.css",
+    "static/js/main.fb8000f2.js"
+  ]
+}
